@@ -32,7 +32,7 @@ Four discrete actions available:<br><br>
 2: fire main engine<br><br>
 3: fire right orientation engine<br><br>
 
-#### How to use<br>
+## How to use<br>
 ### Dependencies
 * [Instructions for installing openAI gym environment in Windows](https://towardsdatascience.com/how-to-install-openai-gym-in-a-windows-environment-338969e24d30)
 
