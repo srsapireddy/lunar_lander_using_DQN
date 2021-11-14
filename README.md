@@ -33,8 +33,12 @@ Four discrete actions available:<br><br>
 3: fire right orientation engine<br><br>
 
 #### How to use<br>
+### Dependencies
+* [Instructions for installing openAI gym environment in Windows](https://towardsdatascience.com/how-to-install-openai-gym-in-a-windows-environment-338969e24d30)
+
 ### Training model for lunar lander environment<br>
-git clone <br>
+git clone https://github.com/srsapireddy/lunar_lander_using_DQN.git<br>
+cd lunar_lander_using_DQN/<br>
 Edit experiment parameters in train.py<br>
-python train.py<br>
+python3 train.py<br>
   
